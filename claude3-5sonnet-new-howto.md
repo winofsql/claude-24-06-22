@@ -1,4 +1,4 @@
-### [参照元](https://www.ai-souken.com/article/what-is-claude35-sonnet)
+### [参照元:2024-06-26記事 / AI総合研究所](https://www.ai-souken.com/article/what-is-claude35-sonnet)
 
 ```
 Claude 3.5 で可能な事を明確に素人でも解りやすくまとめてください
